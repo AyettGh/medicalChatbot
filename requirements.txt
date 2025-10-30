@@ -1,5 +1,9 @@
+
+#pip install -r requirements.txt only this file contains 
 openai
 longchain
 streamlit
-python-dotenv
+python-dotenv #read key-value pairs from .env file and can set them as env variables
 PyPDF2
+#search all local project and install it in your virtual env
+-e .
